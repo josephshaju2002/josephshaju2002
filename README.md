@@ -22,7 +22,7 @@
 - Node.js, Express.js, REST APIs
 - MongoDB / Mongoose
 
-**Other**
+**Others**
 - JavaScript (ES6+)
 - Git, GitHub, Vercel / Netlify, Postman
 - Familiar with authentication (JWT), file uploads, and working with third-party APIs
